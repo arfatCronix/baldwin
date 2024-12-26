@@ -1,0 +1,11 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "normalStoreUrl": "https://api.bigcommerce.com/stores/taxcosnsew/v3/",
+  "port": "3000",
+  "packageManager": "npm"
+}
